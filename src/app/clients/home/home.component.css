@@ -61,3 +61,792 @@
 [class~=post-new-type]>a img {
     width: 1.4375pc;
 }
+
+[class~=post-new-type]>a img {
+    margin-right: 7px;
+}
+
+a {
+    color: #929292;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+[class~=post-new-type]>a:hover,
+[class~=post-new-media-input] [class~=uk-input] {
+    background-color: #f1f3f4;
+}
+
+a:hover {
+    color: #3e416d;
+    text-decoration: none;
+}
+
+[class~=post-new-type]>a {
+    border-radius: .052083333in;
+}
+
+a:hover,
+.uk-link:hover,
+.uk-link-toggle:hover .uk-link,
+.uk-link-toggle:focus .uk-link {
+    color: #3e416d;
+    text-decoration: none;
+}
+
+a:active,
+a:hover {
+    outline: none;
+}
+
+[class~=post-new-type]>a {
+    border-radius: .052083333in;
+}
+
+[class~=post-new-type]>a {
+    padding-top: .052083333in;
+}
+
+[class~=post-new-type]>a {
+    padding-right: 7.5pt;
+}
+
+[class~=post-new-type]>a {
+    padding-bottom: .052083333in;
+}
+
+[class~=post-new-type]>a {
+    padding-left: 7.5pt;
+}
+
+[class~=post-new-type]>a,
+[class~=post-new-type] {
+    align-items: center;
+}
+
+[class~=post-new-media],
+[class~=post-new-type]>a {
+    display: inline-flex;
+}
+
+[class~=post-new-type]>a,
+[class~=post-new-media-input] {
+    min-width: 1px;
+}
+
+[class~=post-new-type]>a,
+.post-heading .post-title,
+[class~=post-new-media-input],
+[class~=post-new-header] h4 {
+    flex: 1;
+}
+
+
+/* 2 */
+
+[class~=post-heading] [class~=post-avature] img,
+[class~=post-new-media-user] img {
+    height: 40px;
+}
+
+[class~=post-heading] [class~=post-avature] img,
+[class~=post-new-media-user] img {
+    width: .416666667in;
+}
+
+[class~=post-heading] [class~=post-avature] img,
+[class~=post-heading] [class~=post-btn-action] span[class~=icon-more] {
+    border-radius: 100%;
+}
+
+.post-heading .post-title {
+    min-width: .75pt;
+}
+
+.post-heading .post-title {
+    margin-left: .9375pc;
+}
+
+[class~=post-new-type]>a,
+.post-heading .post-title,
+[class~=post-new-media-input],
+[class~=post-new-header] h4 {
+    flex: 1;
+}
+
+[class~=post-heading] [class~=post-title] h4 {
+    margin-bottom: -.75pt;
+}
+
+[class~=post-heading] [class~=post-title] h4 {
+    font-size: 16px;
+}
+
+[class~=post-heading] [class~=post-title] p {
+    color: #7d7d7d;
+}
+
+[class~=post-heading] [class~=post-title] p {
+    font-weight: 600;
+}
+
+[class~=post-heading] [class~=post-title] p {
+    margin-bottom: 0;
+}
+
+[class~=post-heading] [class~=post-title] p {
+    font-size: 9.75pt;
+}
+
+canvas,
+img,
+video {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-image: none;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-top-color: white;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-right-color: white;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-bottom-color: white;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-left-color: white;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-top-style: solid;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-right-style: solid;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-left-style: solid;
+}
+
+.post-new-tab-nav,
+[class~=post] [class~=post-state],
+[class~=post] [class~=post-state-details] * img {
+    border-bottom-style: solid;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-top-width: .03125in;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-right-width: .03125in;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-bottom-width: .03125in;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    border-left-width: .03125in;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    z-index: 2;
+}
+
+.post-new-btn-close,
+[class~=post] [class~=post-state-details] * img {
+    border-radius: 100%;
+}
+
+[class~=post] [class~=post-state-details] * img {
+    width: 20.25pt;
+}
+
+.post .post-state-details * img:nth-child(2) {
+    z-index: 1;
+}
+
+.post .post-state-details * img:nth-child(2) {
+    margin-left: -6px;
+}
+
+.post .post-state-details p {
+    font-size: .135416667in;
+}
+
+.post .post-state-details p {
+    margin-bottom: 0;
+}
+
+[class~=post] [class~=post-state-details] {
+    padding-right: .041666667in;
+}
+
+[class~=post] [class~=post-state-details] {
+    padding-top: .041666667in;
+}
+
+[class~=post] [class~=post-state-details] {
+    justify-content: space-between;
+}
+
+.post-new-tab-nav,
+[class~=post] [class~=post-state-details] {
+    align-items: center;
+}
+
+[class~=post] [class~=post-state-details] div {
+    align-items: center;
+}
+
+
+/* post-state */
+
+[class~=post] [class~=post-state] {
+    border-bottom-color: #f3f3f3;
+}
+
+.post-new-tab-nav,
+[class~=post] [class~=post-state],
+[class~=post] [class~=post-state-details] * img {
+    border-bottom-style: solid;
+}
+
+[class~=post] [class~=post-state],
+.post-new-tab-nav {
+    border-bottom-width: 1px;
+}
+
+[class~=post] [class~=post-state] {
+    border-image: none;
+}
+
+[class~=post] [class~=post-state] {
+    border-top-color: #f3f3f3;
+}
+
+[class~=post] [class~=post-state],
+[class~=post-comment-text]::before {
+    border-top-style: solid;
+}
+
+[class~=post] [class~=post-state] {
+    border-top-width: 1px;
+}
+
+[class~=post] [class~=post-state] {
+    flex-wrap: wrap;
+}
+
+[class~=post] [class~=post-state] {
+    align-items: center;
+}
+
+[class~=post] [class~=post-state] {
+    position: relative;
+}
+
+[class~=post] [class~=post-state] {
+    text-align: center;
+}
+
+[class~=post] [class~=post-state] {
+    width: 100%;
+}
+
+[class~=post-new-tab-nav] a,
+[class~=post] [class~=post-state-details] div,
+[class~=post] [class~=post-state] {
+    justify-content: center;
+}
+
+[class~=post-new-header],
+[class~=post] [class~=post-state] {
+    display: flex;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    justify-content: center;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    align-items: center;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    display: flex;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    cursor: pointer;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    transition: all .1s ease-in-out;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    padding-top: .5625pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    padding-right: .3125pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    padding-bottom: .5625pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    padding-left: .3125pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    box-shadow: none;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    margin-top: .25pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    margin-right: .041666667in;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    margin-bottom: .25pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    margin-left: .041666667in;
+}
+
+[class~=post] [class~=post-description] [class~=fullsizeimg] video,
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    border-image: none;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-top-color: currentColor;
+}
+
+[class~=post] [class~=post-description] [class~=fullsizeimg] video,
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    border-right-color: currentColor;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-bottom-color: currentColor;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-left-color: currentColor;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-top-style: none;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-right-style: none;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-bottom-style: none;
+}
+
+[class~=post] [class~=post-description] [class~=fullsizeimg] video,
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    border-left-style: none;
+}
+
+[class~=post] [class~=post-description] [class~=fullsizeimg] video,
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    border-top-width: 0;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-right-width: 0;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    width: 100%;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    flex: 1;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns],
+[class~=post] [class~=post-description] [class~=fullsizeimg] video {
+    border-bottom-width: 0;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    line-height: 19px;
+}
+
+[class~=post] [class~=post-description] [class~=fullsizeimg] video,
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    border-left-width: 0;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    font-weight: 500;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    font-size: .8125pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    color: #616770;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    border-radius: 3.75pt;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] span {
+    margin-left: .25pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    cursor: pointer;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    line-height: 19px;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    font-weight: 500;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    font-size: .8125pc;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns] {
+    color: #616770;
+}
+
+.post .post-state .post-state-btns i {
+    margin-right: 4px;
+}
+
+.post .post-add-comment-text-area .icons span,
+.post .post-state .post-state-btns i {
+    font-size: .197916667in;
+}
+
+[class~=post] [class~=post-state] [class~=post-state-btns]:hover {
+    background-color: #f1f3f4;
+}
+
+
+/* /coment */
+
+[class~=post-comments] a[class~=view-more-comment] {
+    font-size: 13.5px;
+}
+
+[class~=post-comments] a[class~=view-more-comment] {
+    margin-bottom: .5pc;
+}
+
+[class~=post-comments] a[class~=view-more-comment] {
+    display: block;
+}
+
+[class~=post-comment-avatar] img {
+    border-radius: 50%;
+}
+
+[class~=post-comment-avatar] img {
+    height: 30pt;
+}
+
+[class~=post-comment-avatar] img {
+    width: .416666667in;
+}
+
+[class~=post-comments-single] {
+    margin-bottom: 10.5pt;
+}
+
+[class~=post-comment-avatar] {
+    flex: none;
+}
+
+[class~=post-comment-avatar] {
+    width: auto;
+}
+
+[class~=post-comment-text] {
+    margin-left: .15625in;
+}
+
+[class~=post-comment-text],
+.post .post-add-comment-text-area {
+    position: relative;
+}
+
+[class~=post] [class~=post-add-comment-text-area] [class~=icons],
+[class~=post-comment-text]::before,
+[class~=post-comment-opt]::before {
+    position: absolute;
+}
+
+[class~=post-comment-text]::before {
+    top: .125in;
+}
+
+[class~=post-comment-text]::before {
+    right: auto;
+}
+
+[class~=post-comment-text]::before {
+    left: -5.25pt;
+}
+
+[class~=post-comment-text]::before {
+    border-right-color: #f4f4f4;
+}
+
+[class~=post-comment-text]::before {
+    border-right-style: solid;
+}
+
+[class~=post-comment-text]::before {
+    border-right-width: .5pc;
+}
+
+[class~=post-comment-text]::before {
+    border-bottom-color: transparent;
+}
+
+[class~=post-comment-text]::before {
+    border-bottom-style: solid;
+}
+
+[class~=post-comment-text]::before {
+    border-bottom-width: .083333333in;
+}
+
+[class~=post-comment-text]::before {
+    border-image: none;
+}
+
+[class~=post-comment-text]::before {
+    border-top-color: transparent;
+}
+
+[class~=post-comment-text]::before {
+    border-top-width: .083333333in;
+}
+
+[class~=post-comment-text]::before {
+    height: 0;
+}
+
+[class~=post-comment-text]::before {
+    width: 0;
+}
+
+[class~=post-comment-text]::before {
+    content: "";
+}
+
+[class~=post] [class~=post-state],
+[class~=post-comment-text]::before {
+    border-top-style: solid;
+}
+
+[class~=post-comment-text-inner] {
+    margin-bottom: .1875pc;
+}
+
+[class~=post-comment-text-inner] {
+    border-radius: 6.75pt;
+}
+
+[class~=post-comment-text-inner] {
+    padding-top: .104166667in;
+}
+
+[class~=post-comment-text-inner] {
+    padding-right: .104166667in;
+}
+
+[class~=post-comment-text-inner] {
+    padding-bottom: .104166667in;
+}
+
+[class~=post-comment-text-inner] {
+    padding-left: .104166667in;
+}
+
+.post .post-add-comment-text-area,
+[class~=post-comment-text-inner] {
+    background-color: #f1f3f4;
+}
+
+[class~=post-comment-text-inner] h6 {
+    font-size: .151041667in;
+}
+
+[class~=post-comment-text-inner] p,
+[class~=post-comment-text-inner] h6 {
+    margin-bottom: 0;
+}
+
+h6 {
+    margin: 0 0 15px 0;
+    font-weight: 600;
+    color: #545454;
+    text-transform: capitalize;
+}
+
+.uk-text-small {
+    font-size: 0.815rem;
+    line-height: 1.5;
+}
+
+[class~=post] [class~=post-add-comment-avature] img {
+    border-radius: 100%;
+}
+
+[class~=post] [class~=post-add-comment-avature] img {
+    width: .364583333in;
+}
+
+.post .post-add-comment-text-area {
+    padding-top: 2.25pt;
+}
+
+.post .post-add-comment-text-area {
+    padding-right: .15625in;
+}
+
+.post .post-add-comment-text-area {
+    padding-bottom: 2.25pt;
+}
+
+.post .post-add-comment-text-area {
+    padding-left: .15625in;
+}
+
+.post .post-add-comment-text-area {
+    border-radius: 50px;
+}
+
+.post .post-add-comment-text-area {
+    width: 100%;
+}
+
+[class~=post-comment-text],
+.post .post-add-comment-text-area {
+    position: relative;
+}
+
+.post .post-add-comment-text-area {
+    margin-left: .104166667in;
+}
+
+.post .post-add-comment-text-area,
+[class~=post-comment-text-inner] {
+    background-color: #f1f3f4;
+}
+
+.post .post-add-comment-text-area,
+[class~=post] [class~=post-add-comment] {
+    overflow: hidden;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    outline: 0;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    background: #f1f3f4;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    height: 30px;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    width: 100%;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-image: none;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-top-color: currentColor;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-right-color: currentColor;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-bottom-color: currentColor;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-left-color: currentColor;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-top-style: none;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-right-style: none;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-bottom-style: none;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-left-style: none;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-top-width: 0;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-right-width: 0;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-bottom-width: 0;
+}
+
+[class~=post] [class~=post-add-comment-text-area] input {
+    border-left-width: 0;
+}
