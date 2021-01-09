@@ -1,7 +1,7 @@
 <div class="clients-container" [class.clients-is-mobile]="mobileQuery.matches">
     <mat-toolbar color="primary" class="clients-toolbar">
         <!-- <button mat-icon-button (click)="snav.toggle()"><mat-icon>menu</mat-icon></button> -->
-        <h1 class="clients-app-name">Responsive App</h1>
+        <h1 class="clients-app-name">S-APP</h1>
     </mat-toolbar>
 
     <mat-sidenav-container class="clients-sidenav-container" [style.marginTop.px]="mobileQuery.matches ? 56 : 0">
@@ -14,7 +14,8 @@
         <mat-sidenav-content>
             <div class="container">
                 <div style="background: #EEF0F8;">
-                    <router-outlet></router-outlet>"></div>
+                    <router-outlet></router-outlet>
+                </div>
 
             </div>
 
