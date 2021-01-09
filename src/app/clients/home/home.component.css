@@ -1,0 +1,63 @@
+[class~=post-new-media-user] img {
+    border-radius: 50%;
+}
+
+[class~=post-new-media-user] img {
+    height: 40px;
+}
+
+[class~=post-new-media-user] img {
+    width: .416666667in;
+}
+
+[class~=post-new-media-user] {
+    margin-right: 15px;
+}
+
+[class~=post-new-input] {
+    width: 100%;
+}
+
+[class~=uk-input] {
+    border-radius: 50px !important;
+}
+
+[class~=uk-input] {
+    background-color: #f1f3f4 !important;
+}
+
+.uk-input {
+    height: 43px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.uk-input {
+    max-width: 100%;
+    width: 100%;
+    border: 0 none;
+    padding: 0px 16px;
+    background: #fff;
+    color: #666;
+    /* font-weight: 600; */
+    border: 1px solid #eceff5;
+    border-radius: 7px;
+    transition: 0.2s ease-in-out;
+    transition-property: color, background-color, border;
+}
+
+[class~=uk-input]:focus,
+[class~=uk-input] {
+    border-color: #f1f3f4;
+}
+
+.uk-input:focus {
+    outline: none;
+    background-color: #fff;
+    color: #666;
+    border-color: #d0d0d0;
+}
+
+[class~=post-new-type]>a img {
+    width: 1.4375pc;
+}
