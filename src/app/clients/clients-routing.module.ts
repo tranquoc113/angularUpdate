@@ -3,11 +3,11 @@ import { Routes, RouterModule } from '@angular/router';
 import { PageNotFoundComponent } from '../shared/error-handling/page-not-found/page-not-found.component';
 
 const routes: Routes = [
-  // {
-  //   path: '',
-  //   loadChildren: () => import('./dashboard/dashboard.module').then(mod => mod.DashboardModule),
-  //   canActivate: [AuthGuard],
-  // },
+  {
+    path: '',
+    loadChildren: () => import('./home/home.module').then(mod => mod.HomeModule),
+  
+  },
   {
     path: '**',
     component: PageNotFoundComponent
