@@ -10,6 +10,9 @@ import { ShareMaterialModule } from './sharematerial.module';
     ConfigModule,
     ErrorHandlingModule,
     ShareMaterialModule
+  ],
+  exports:[
+    ShareMaterialModule
   ]
 })
 export class SharedModule { }

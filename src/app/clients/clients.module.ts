@@ -4,6 +4,8 @@ import { SharedModule } from '../shared/shared.module';
 import { ErrorHandlingModule } from '../shared/error-handling/error-handling.module';
 import { ClientsComponent } from './clients/clients.component';
 import { ClientsRoutingModule } from './clients-routing.module';
+import { ShareMaterialModule } from '../shared/sharematerial.module';
+
 @NgModule({
   declarations: [
     ClientsComponent,
