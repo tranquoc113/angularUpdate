@@ -1,0 +1,20 @@
+<button mat-button (click)="loading()">Loading</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Public</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let post of dataSource$ | async">
+            <td>{{ post.title }}</td>
+            <td>{{ post.description }}</td>
+            <td>
+                {{post.published}}
+            </td>
+        </tr>
+    </tbody>
+</table>

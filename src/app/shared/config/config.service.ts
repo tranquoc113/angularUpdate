@@ -78,11 +78,6 @@ export class ConfigService {
 
 
 
-
- 
-
-
-
   public getImagePath(imageName: string): string {
     if (this.current && this.current.settings) {
       return this.current.settings.imagesPath + imageName;

@@ -6,14 +6,6 @@ import { PageNotFoundComponent } from './shared/error-handling/page-not-found/pa
 
 const routes: Routes = [
   {
-    path: '',
-    loadChildren: () => import('./clients/clients.module').then(mod => mod.ClientsModule),
-    component: ClientsComponent,
-    data: {
-      configurationName: 'clients',
-    }
-  },
-  {
     path: 'admin',
     loadChildren: () => import('./admin/admin.module').then(mod => mod.AdminModule),
     component: AdminComponent,
@@ -21,6 +13,15 @@ const routes: Routes = [
       configurationName: 'admin',
     }
   },
+  {
+    path: '',
+    loadChildren: () => import('./clients/clients.module').then(mod => mod.ClientsModule),
+    component: ClientsComponent,
+    data: {
+      configurationName: 'clients',
+    }
+  },
+
   {
     path: '**',
     component: PageNotFoundComponent
